@@ -85,7 +85,7 @@ text-decoration:none;
 {padding:25px 25px 25px 80px;}
 
 .bluestripe
-{width:100%;
+{min-width:100%;
 background-color: #4878bb}
 
 .yellowstripe
