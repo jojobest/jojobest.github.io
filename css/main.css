@@ -201,12 +201,12 @@ text-transform: uppercase}
 font-style:italic;}
 
 .cols2
-{height:800px;
+{height:780px;
 margin-bottom:50px;}
 
 
 .medcarimg
-{padding:10px 10px 0 20px;}
+{padding:10px 10px 0 20px; text-align: center}
 
 .col2 ul li
 {margin-left:20px;
